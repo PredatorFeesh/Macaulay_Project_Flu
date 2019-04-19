@@ -1,0 +1,4 @@
+Visualization: https://health.data.ny.gov/d/gkjx-s322/visualization
+Data: https://health.data.ny.gov/Health/Influenza-Laboratory-Confirmed-Cases-By-County-Beg/jr8b-6gh6
+Original Visualization: https://nyshc.health.ny.gov/web/nyapd/new-york-state-flu-tracker
+
