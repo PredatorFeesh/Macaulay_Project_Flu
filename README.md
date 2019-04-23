@@ -1,15 +1,14 @@
-<<<<<<< HEAD
 # Macaulay Project for Seminar
-![](Cover\ Photos/original.jpg)
+![](Cover\ Photos/original.jpg)<br>
 The site for this course can be accessed [here](https://eportfolios.macaulay.cuny.edu/siodmak19/) if you are a student from the class.  <br>
 My reports can be seen [here](https://eportfolios.macaulay.cuny.edu/futureofnyc19/category/students/jason-azayev/), as this is a public facing website. Details will be worked
 out in this repo first, and then edited onto the site. <br>
 
 
 # Credits
-Visualization: https://health.data.ny.gov/d/gkjx-s322/visualization
-Data: https://health.data.ny.gov/Health/Influenza-Laboratory-Confirmed-Cases-By-County-Beg/jr8b-6gh6
-Original Visualization: https://nyshc.health.ny.gov/web/nyapd/new-york-state-flu-tracker
+Visualization: https://health.data.ny.gov/d/gkjx-s322/visualization <br>
+Data: https://health.data.ny.gov/Health/Influenza-Laboratory-Confirmed-Cases-By-County-Beg/jr8b-6gh6<br>
+Original Visualization: https://nyshc.health.ny.gov/web/nyapd/new-york-state-flu-tracker<br>
 
 # Full List Credits
 [Visualizations](Weekly\ Data\ NY/Visualizations/credits.txt)
