@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Macaulay Project for Seminar
 ![](Cover\ Photos/original.jp)
 The site for this course can be accessed [here](https://eportfolios.macaulay.cuny.edu/siodmak19/) if you are a student from the class.  <br>
@@ -12,3 +13,10 @@ Original Visualization: https://nyshc.health.ny.gov/web/nyapd/new-york-state-flu
 
 # Full List Credits
 [Visualizations](Weekly\ Data\ NY/Visualizations/credits.txt)
+=======
+# Flu Project for Macaulay Seminar
+
+- Checkups and quick details written here: https://eportfolios.macaulay.cuny.edu/futureofnyc19/category/students/jason-azayev/
+
+
+>>>>>>> 1fb0d4c0b712294abb38d5babeb807836039177d
