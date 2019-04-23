@@ -10,7 +10,7 @@ Column Name	Description	Type [DIRECTLY FROM THE WEBSITE LINKED IN CREDITS]
 <h6>Season</h6>	
 Because influenza activity peaks in winter, the influenza season is named for the two calendar years over which a single influenza epidemic spans. CDC defines the influenza season as beginning with week 40 (generally the first week in October) of one calendar year and ending with week 20 of the following calendar year (generally the third week in May).<br>
 	
-<h6>Region	
+<h6>Region	</h6>
 The five regions in New York are defined by county as Capital District Region counties: Albany, Clinton, Columbia, Delaware, Essex, Franklin, Fulton, Greene, Hamilton, Montgomery, Otsego, Rensselaer, Saratoga, Schenectady, Schoharie, Warren, Washington Central Region counties: Broome, Cayuga, Chenango, Cortland, Herkimer, Jefferson, Lewis, Madison, Oneida, Onondaga, Oswego, St Lawrence, Tioga, Tompkins Metropolitan Region counties: Dutchess, Nassau, Orange, Putnam, Rockland, Suffolk, Sullivan, Ulster, Westchester New York City counties/boroughs: Bronx, Kings, New York, Queens, Richmond Western Region counties: Allegany, Cattaraugus, Chautauqua, Chemung, Erie, Genesee, Livingston, Monroe, Niagara, Ontario, Orleans, Schuyler, Seneca, Steuben, Wayne, Wyoming, Yates<br>
 	
 <h6>County	</h6>
